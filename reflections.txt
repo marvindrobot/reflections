@@ -1,0 +1,3 @@
+These are my relections on the course so far. I think it will help me greatly in the developement of miss riley's game. 
+
+I like the commits system. I will be able to test things with out breaking the game. 
